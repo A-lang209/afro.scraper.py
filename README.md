@@ -49,5 +49,4 @@ It demonstrates my ability to collect, clean, and structure product data from an
 ---
 
 ## 📧 Author
-Developed by **[Your Full Name]**  
-For interview submission to **Veefyed Ltd**
+Developed by Abdelrahman Agha
